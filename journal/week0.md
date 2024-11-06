@@ -13,9 +13,9 @@
 ```
 azeezat@Abisolas-Air ~ % aws sts get-caller-identity
 {
-    "UserId": "AIDASK5MCD5NCO25WQLBB",
-    "Account": "160885251930",
-    "Arn": "arn:aws:iam::160885251930:user/zee"
+    "UserId": "xxxxxx",
+    "Account": "xxxxx",
+    "Arn": "arn:aws:iam::xxxxx:user/xxxx"
 }
 ```
 
